@@ -1,0 +1,8 @@
+name: MineCars
+main: me.semx11.minecars.MineCars
+version: 0.3
+description: Cars in Minecraft 1.9
+commands:
+    spawncar:
+        usage: /<command>
+        description: Spawn a car at your location
